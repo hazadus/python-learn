@@ -163,3 +163,5 @@ docker/
 docker/postgres/
 .ruff_cache/
 misc/cats/
+
+*.bin
