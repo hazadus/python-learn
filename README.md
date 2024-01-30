@@ -7,6 +7,7 @@ Examples and code snippets from books, etc.
 - Cartesian product using list comprehension: [arrays/fp_example_2_4.py](arrays/fp_example_2_4.py)
 - Creating, saving, and loading a large array of floats: [arrays/fp_example_2_19.py](arrays/fp_example_2_19.py)
 - Destructuring nested tuples using `match`/`case` with optional `if`: [arrays/fp_example_2_10.py](arrays/fp_example_2_10.py)
+- Working with a `deque`: [arrays/fp_example_2_23.py](arrays/fp_example_2_23.py)
 
 ## New in Python 3.12
 
