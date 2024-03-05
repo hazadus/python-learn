@@ -15,4 +15,8 @@ Examples and code snippets from books, etc.
 
 ## New in Python 3.12
 
-Some examples of new feats in v3.12: [3_12_new_feats/](3_12_new_feats/)
+- Some examples of new feats in v3.12: [3_12_new_feats/](3_12_new_feats/)
+
+## Working with Binary Data
+
+- Formatting strings: [binary/format.py](binary/format.py)
