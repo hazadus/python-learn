@@ -10,7 +10,8 @@ print(bin_)
 print(hex_)
 print(oct_)
 
+i = ord(b"\x0F")
 # Same output with f-strings:
-print(f"{i:b}")
-print(f"{i:x}")
+print(f"{i:08b}")  # pad binary with leading zeros
+print(f"{i:02x}")  # pad hix with leading zero
 print(f"{i:o}")

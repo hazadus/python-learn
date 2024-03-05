@@ -21,8 +21,10 @@ Examples and code snippets from books, etc.
 
 - Formatting strings: [binary/format.py](binary/format.py)
 - Convert hex numbers from string to bytes, and vice versa: [binary/hexadecimal.py](binary/hexadecimal.py)
+- Bitwise operations: [binary/bitwise_ops.py](binary/bitwise_ops.py)
 
 ### References
 
 - https://www.devdungeon.com/content/working-binary-data-python
+- https://realpython.com/python-bitwise-operators/
 - https://docs.python.org/3.12/library/struct.html
