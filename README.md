@@ -1,4 +1,4 @@
-# python-learn
+# 🐍 python-learn
 
 Examples and code snippets from books, etc.
 
@@ -20,3 +20,9 @@ Examples and code snippets from books, etc.
 ## Working with Binary Data
 
 - Formatting strings: [binary/format.py](binary/format.py)
+- Convert hex numbers from string to bytes, and vice versa: [binary/hexadecimal.py](binary/hexadecimal.py)
+
+### References
+
+- https://www.devdungeon.com/content/working-binary-data-python
+- https://docs.python.org/3.12/library/struct.html
